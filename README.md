@@ -34,7 +34,7 @@ Parts **2-4** of this project can **only be run in Databricks** due to:
 ---
 ## 📌 Part 1 - Web Scraping  
 <details>
-<summary> This section contains two web scrapers designed to collect **essential ranking data** for mentor-mentee matching.  </summary>
+<summary> This section contains two web scrapers designed to collect **essential ranking data** for mentor-mentee matching. (Click to expand) </summary>
 
 <details>
   <summary>🌎 Shanghai Ranking Scraper (Click to expand)</summary>
@@ -77,7 +77,7 @@ pip install -r requirements.txt
 ### 3️⃣ Run the Scrapers  
 
 <details>
-  <summary>📊 Shanghai Rankings Scraper</summary>
+  <summary>📊 Shanghai Rankings Scraper (Click to expand)</summary>
 
 To scrape **Academic Rankings**, run:  
 
@@ -91,7 +91,7 @@ This will generate:
 </details>  
 
 <details>
-  <summary>📌 Categorized Shanghai Rankings Scraper (GRAS 2024)</summary>
+  <summary>📌 Categorized Shanghai Rankings Scraper (GRAS 2024) (Click to expand)</summary>
 
 To scrape **Global Ranking of Academic Subjects (GRAS) 2024**, run:  
 
@@ -104,7 +104,7 @@ This will generate:
 </details>  
 
 <details>
-  <summary>📚 Best Courses Scraper (Class Central)</summary>
+  <summary>📚 Best Courses Scraper (Class Central) (Click to expand)</summary>
 
 To scrape **top free online courses**, run:  
 
@@ -137,7 +137,7 @@ python dups.py
 
 ## 📌 Part 2 - Data Preprocessing  
 <details>
-<summary>This stage processes LinkedIn user data, prepares features, and assigns expertise labels.  </summary>
+<summary>This stage processes LinkedIn user data, prepares features, and assigns expertise labels. (Click to expand) </summary>
 
 ### **How to Run**  
 1️⃣ Upload the notebooks into a **Databricks Workspace**.  
@@ -155,7 +155,7 @@ python dups.py
 
 ## 📌 Part 3 - Execution & Evaluation  
 <details>
-<summary>This stage runs the **mentorship matching algorithm**, identifying the best mentors for mentees using a **K-Nearest Neighbors (KNN) approach**.  </summary>
+<summary>This stage runs the **mentorship matching algorithm**, identifying the best mentors for mentees using a **K-Nearest Neighbors (KNN) approach**. (Click to expand) </summary>
 
 ### **How to Run**  
 1️⃣ Upload the notebooks into a **Databricks Workspace**.  
@@ -172,7 +172,7 @@ python dups.py
 
 ## 📌 Part 4 - Visualizations  
 <details>
-<summary>This section provides **data insights and visual representations** of the mentorship platform’s performance and user distribution.  </summary>
+<summary>This section provides **data insights and visual representations** of the mentorship platform’s performance and user distribution. (Click to expand) </summary>
 
 ### **How to Run**  
 1️⃣ Upload the notebook into a **Databricks Workspace**.  
