@@ -3,9 +3,9 @@
 ---
 
 ## 📜 Acknowledgments  
-This project was developed by **Anya Sukachev**, **Alexa Birenbaum**, **Liat Tsipory**, and **Dana Mikulinsky** as the **final project** for the **Data Lab course - 00940290** at the end of Winter 2025 semester.  
+This project was developed by **Anya Sukachev**, **Alexa Birenbaum**, **Liat Tsipory**, and **Dana Mikulinsky** as the **final project** for the **Data Lab course - 00940290**.  
 
-🚀 Submitted in **[Month, Year]**  
+🚀 Submitted in **February, 2025** (Winter semester)  
 
 ---
 
