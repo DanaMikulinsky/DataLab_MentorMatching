@@ -1,5 +1,11 @@
-# DataLab_MentorMatching  
+# DataLab Final Project - MentorMatching  
 🚀 **AI-Driven Mentorship Platform for LinkedIn** – Recommending optimal mentor-mentee matches using AI, LinkedIn profile data, and expertise grading. 🚀  
+---
+
+## 📜 Acknowledgments  
+This project was developed by **Anya Sukachev**, **Alexa Birenbaum**, **Liat Tsipory**, and **Dana Mikulinsky** as the **final project** for the **Data Lab course - 00940290** at the end of Winter 2025 semester.  
+
+🚀 Submitted in **[Month, Year]**  
 
 ---
 
